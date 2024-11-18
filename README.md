@@ -1,4 +1,4 @@
-# NYPD SHOOTING INCIDENT DATA (HISTORIC:2006-2023)
+# NYC Gun Violence(HISTORIC:2006-2023)
 
 Tejalakshmi Gangadhar / Chalumuri
 
