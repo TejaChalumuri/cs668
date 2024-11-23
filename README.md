@@ -5,7 +5,7 @@ Tejalakshmi Gangadhar / Chalumuri
 
 * *This work was realized as part of the capstone project of the MS in Data Science at Pace University*
  
-* **Abstract:** Abstract of the project (to be completed at the end of the semester)
+* **Abstract:** The current research explores the following: (1) the spatial and temporal patterns of gun violence in New York City's urban neighborhoods from 2006 to 2023. By utilizing a dataset on the shooting incidents obtained from the NYPD Historical Shooting Incidents, the research (2) applies EDA and machine learning methods to investigate the trend, locate high-risk zones, and present demographic distribution of the affected population. Results indicated (3) distinct temporal patterns in shooting incidents, with certain neighborhoods and demographic groups disproportionately affected. Finally, (4) the study concludes that leveraging data-driven insights can inform targeted interventions and recommends integrating predictive analytics to enhance urban safety initiatives.
  
 * **Dataset:** The dataset used for this analysis is  from NYC Open Data. It contains detailed records of shooting incidents across New York City from 2006 to 2023, with over 28,000 records and 25 variables.
   * Key Variables: Date, Borough, Location Type, Victim and Perpetrator Demographics
@@ -30,7 +30,10 @@ Tejalakshmi Gangadhar / Chalumuri
 
   * Impact on Certain Neighborhoods and Demographic Groups: According to many sources, Brooklyn and Bronx areas show the most murder/suicide tendencies and are sustained predominantly by males aged 18-44.
 
-  * Timing and Geographies of High Frequency: Nighttime, late hours, especially where there are active social events are likely to have a shooting incident. Recurrent geographical areas of crime and offending neighborhoods are at significantly higher risk suggesting the areas warrant preventive measures. 
+  * Timing and Geographies of High Frequency: Nighttime, late hours, especially where there are active social events are likely to have a shooting incident. Recurrent geographical areas of crime and offending neighborhoods are at significantly higher risk suggesting the areas warrant preventive measures. High Risk shooting are and timing have been predicted using Random Forest method with an accuracy of 90%.
 
  
 * Poster (as an image)
+
+ ![NYC Gun Violence(HISTORIC2006-2023)-Poster](https://github.com/user-attachments/assets/56c28f5e-d39e-4b45-acd3-5859833a673d)
+ 
