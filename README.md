@@ -23,7 +23,7 @@ Tejalakshmi Gangadhar / Chalumuri
       * Borough Distribution: Grouping incidents by borough to understand the geographic distribution of shootings and identify areas with higher incident rates, with Brooklyn and the Bronx showing consistently high counts.
       * Victim Demographics: Analyzing the age and gender of victims to highlight demographic groups most affected by gun violence, with males aged 18-44 being predominant victims.
   * Predictive Modeling: Considering machine learning techniques (e.g., random forest) to predict high-risk neighborhoods and times for shootings. Model performance is evaluated using metrics such as accuracy, precision, recall, and F1-score.
-
+* Code : https://github.com/TejaChalumuri/cs668/blob/main/NYC%20Gun%20Violence(HISTORIC2006-2023).ipynb
  
 * **Results:**
   * Annual, Seasonal, and Neighborhood Changes: Gun violence in NYC has been decreasing but some communities remain a feature of concern, similar to the situation in the past. As per the analysis, some peak seasons within the year exist, for example summer, which suggests more time spent on the street.
