@@ -35,7 +35,8 @@ Tejalakshmi Gangadhar / Chalumuri
  
 * Poster (as an image)
   
-![NYC Gun Violence(HISTORIC2006-2023)-Poster](https://github.com/user-attachments/assets/44916bf0-94e3-410a-bfcc-c0166ed793da)
+
+![NYC Gun Violence(HISTORIC2006-2023)-Poster](https://github.com/user-attachments/assets/4d999f10-6ba0-4bd0-a9ac-6922b33e7f22)
 
  
  
